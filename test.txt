@@ -1,0 +1,2 @@
+FUEL  Toyota  2024  12200  disel  90  13
+ELECT  TESLA  2023  1233330  asynch  500  8
